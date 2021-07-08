@@ -1,7 +1,8 @@
 # lms
 A Library management system (LMS) which manages all the books in a given
 directory. The program, written in c++ starts with a directory as input, and manages the books in that
-directory. The LMS maintains books and their relevant details in a separate file.
+directory. The LMS maintains books and their relevant details in a separate file. The software is Command Line
+Interface based and is yet to be converted to a GUI.
 The software automatically detects all files in the directory and is able to detect the newly added
 books as well.
 The LMS includes following functionalities:
